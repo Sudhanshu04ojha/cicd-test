@@ -13,5 +13,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 Route::get('/cicd-test', function () {
-    return "🎉 CI/CD Successfully Working!";
+    return "🎉 CI/CD Auto Deploy Working Working!";
 });
